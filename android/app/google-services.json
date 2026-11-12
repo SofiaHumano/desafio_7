@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721242506394",
+    "project_id": "tareas-flutter-2026",
+    "storage_bucket": "tareas-flutter-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721242506394:android:3cd1a03e6532d0ffa00b23",
+        "android_client_info": {
+          "package_name": "com.example.desafio_7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs77WJDHerVbEP23F54pQsGgrrLI_I9m8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
